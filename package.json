@@ -1,0 +1,15 @@
+{
+    "id": "xjust",
+    "name": "XJUST",
+    "displayName": "XJUST",
+    "version": "1.0.0",
+    "description": "校园教务小程序",
+    "keywords": [
+        "校园"
+    ],
+    "dcloudext": {
+        "category": [
+            "校园"
+        ]
+    }
+}
